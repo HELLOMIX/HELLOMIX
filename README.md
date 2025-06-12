@@ -80,10 +80,10 @@ HELLOMIX.skills.push(...languages, ...frameworks, ...databases);
 
 <p align="center">
   <a href="https://github.com/HELLOMIX/A3_Engenharia">
-    <img align="center" alt="CollegeWork" src="https://github-readme-stats.vercel.app/api/pin/?username=HELLOMIX&repo=CollegeWork" />
+    <img align="center" alt="CollegeWork" src="https://github-readme-stats.vercel.app/api/pin/?username=HELLOMIX&repo=A3_Engenharia" />
   </a>
   <a href="https://github.com/HELLOMIX/A3_Gerenciador_Tarefa">
-    <img align="center" alt="teste" src="https://github-readme-stats.vercel.app/api/pin/?username=HELLOMIX&repo=teste-aula-git-univesidade" />
+    <img align="center" alt="teste" src="https://github-readme-stats.vercel.app/api/pin/?username=HELLOMIX&repo=A3_Gerenciador_Tarefa" />
   </a>
 </p>
 
