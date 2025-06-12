@@ -42,6 +42,7 @@
   <br />
   <br />
   <img width="10%" alt="Django" align="right" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/frameworks/djangoproject.svg"/>
+  <img width="10%" alt="React" align="right" src="https://github.com/dev-akshat/archive/blob/main/images/svgs/frameworks/reactjs.svg"/>
 </p>
 <br/>
 <br/>
@@ -52,6 +53,7 @@
   <h3 align="right">FAVOURITE FRAMEWORKS</h3>
   <img  align="left" alt="JavaScript" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/languages/javascript.svg"/>
   <img  align="left" alt="Python" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/languages/python.svg"/>
+  <img  align="left" alt="Java" width="10%" src="https://github.com/dev-akshat/archive/blob/main/images/svgs/languages/java.svg"/>
   <br />
   <br />
 </p>
@@ -68,7 +70,7 @@
 import { HELLOMIX } from "Awesome";
 
 const languages = ["Python", "Javascript", "Java"];
-const frameworks = ["React", "Django"];
+const frameworks = ["React", "Django", "JUnit4"];
 const databases = ["MySQL"];
 
 HELLOMIX.skills.push(...languages, ...frameworks, ...databases);
@@ -77,10 +79,10 @@ HELLOMIX.skills.push(...languages, ...frameworks, ...databases);
 <hr/>
 
 <p align="center">
-  <a href="https://github.com/HELLOMIX/CollegeWork">
+  <a href="https://github.com/HELLOMIX/A3_Engenharia">
     <img align="center" alt="CollegeWork" src="https://github-readme-stats.vercel.app/api/pin/?username=HELLOMIX&repo=CollegeWork" />
   </a>
-  <a href="https://github.com/HELLOMIX/teste-aula-git-univesidade">
+  <a href="https://github.com/HELLOMIX/A3_Gerenciador_Tarefa">
     <img align="center" alt="teste" src="https://github-readme-stats.vercel.app/api/pin/?username=HELLOMIX&repo=teste-aula-git-univesidade" />
   </a>
 </p>
