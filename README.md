@@ -97,7 +97,7 @@ HELLOMIX.skills.push(...languages, ...frameworks, ...databases);
 
 <p align="center">
 
-  <a href="www.linkedin.com/in/tiago-ribeiro-pereira-ab021b326">
+  <a href="https://linkedin.com/in/tiago-ribeiro-pereira-ab021b326">
     <img  alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/linkedin.svg"/>
   &nbsp&nbsp&nbsp&nbsp
   <a href="https://github.com/HELLOMIX">
